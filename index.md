@@ -42,13 +42,13 @@ Which analysis has been used?
 Some text here.
 
 ### Text Analysis
-The text analysis contains information from lyrics and Wikipedia page on artits. 
+The text analysis contains information from lyrics and Wikipedia page on artits. The course of action is that the 5 choosen artist from the network is then being used to collect 5 songs from each artist. These songs words will then be analyzed to see if the artist are using the same words and which words are more specific to one artist.
 
 #### Cleaning the text for further analysis
 The first step in order to analyze text in this case both lyrics and text from Wikipedia, the text files must be "cleaned" to get the best result further on. By cleaning the purpose is to remove, punctuations (!?:;., etc.) this includes do not helps us, so those signs are removed. All words are being transformed into lower case, this helps to not being confused if the same word are written with full lower case or just the first letter is capital, this mistake are being avoided by simple removing the all capital letters and replacing them with lower case. Also stopwords are removed in order to focus on the specific words used by the artist or about the artist. Stopwords includes I, all, we, where and so on. The lyrics which are merged into one text file per artist contains square brackets just before a verse, to indicate which verse and who is performining that verse. This data is also removed. 
 
 #### Starting to analyze the text
-The initial plan is to see which words are mostly being used by an artist. This can be described as if all five artist repeatly singing a word, this word are not that interesting for us, therefor we perform what is called TF-IFD. This is term frequency–inverse document frequency, which describes first how many times a word appear in porpotion to the overall count. Then we calculate how offen this word is in a document or corpus in propotion to how many corpus there are in total. 
+The initial plan is to see which words are mostly being used by an artist. This can be described as if all five artist repeatly singing a word, this word are not that interesting for us, therefor we perform what is called TF-IFD. This is term frequency–inverse document frequency, which describes first how important a word is in porpotion to the overall corpsus'. Then we calculate how offen this word is in a document or corpus in propotion to how many corpus there are in total. If a word appears in all corpurs', the lower the word will score. 
 
 When the TF-IDF is calculated the result can then be used to create a visual representation of the words which just have been calculated. To illustrate this a wordcloud is a truly great option. The wordcloud features to show a given amount of words, these words' size depends on the result from previous calculation. To the larger the word is, the greater the value is. 
 
@@ -74,6 +74,7 @@ _Fig x.x: Top 10 most used words from artits Major Lazer's 5 choosen songs._
 
 _Fig 3.8: Wordcloud of most popular words from artits Y._
 
+First, it seems to match, that the words from the wordclouds are similiar to the graph illustrating word count. This might result in that, these words are more likely to be used by Major Lazer than any of the 4 other artist.
 
 ### Conclusion
 Sum up what the overall conclusion is, based on the questions we made.
