@@ -1,38 +1,42 @@
 ## Collaboration between artists in a organic network
 ### 02805 - Social Graphs and Interactions
 
+### Introduction
+Something about the project (short) 
+
+### Data and API
+Information about the data, format, size etc.
+
+- Spotify API (artist and song details)
+- Genius API (lyrics)
+- Wikipedia API (description on artists)
+
 Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/master/index.md) if you want to play around with the data yourself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Network: _how is it made?_
 
-### Markdown
+The following network is made upon a organic structure.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Network: Analysis
+Which analysis has been used?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marialyck/SocialGraphs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Text Analysis
+The text analysis contains lyrics and Wikipedia page information on artits.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
+_Fig 3.7: Wordcloud of most popular words from artits X.
+
+![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
+_Fig 3.8: Wordcloud of most popular words from artits Y.
+
+
