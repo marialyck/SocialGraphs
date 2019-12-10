@@ -13,6 +13,7 @@ Information about the data, format, size etc.
 - Wikipedia API (description on artists)
 
 Download dataset
+
 <a href="https://github.com/marialyck/SocialGraphs/archive/master.zip">Download full repository</a>
 
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/marialyck/SocialGraphs/tree/master/spotify">Download only the Spotify network</a> 
