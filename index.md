@@ -18,7 +18,7 @@ Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/maste
 The following network is made upon a organic structure.
 
 
-```markdown
+```python
 def foo():
     if not bar:
         return True
@@ -27,6 +27,7 @@ def foo():
 
 ![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
 
+_Fig 2.2: Network graph_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
