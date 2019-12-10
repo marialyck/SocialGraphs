@@ -1,5 +1,6 @@
 ## Collaboration between artists in a organic network
 ### 02805 - Social Graphs and Interactions
+https://guides.github.com/features/mastering-markdown/
 
 ### Introduction
 Something about the project (short) 
