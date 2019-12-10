@@ -12,7 +12,10 @@ Information about the data, format, size etc.
 - Genius API (lyrics)
 - Wikipedia API (description on artists)
 
-Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/master/index.md) if you want to play around with the data yourself.
+Download dataset 
+<a href="css/style.css">style.css</a>
+<a href="Dataset/Tooshort.txt">Download File</a>
+if you want to play around with the data yourself.
 
 ### Network: _how is it made?_
 
