@@ -42,7 +42,19 @@ Which analysis has been used?
 Some text here.
 
 ### Text Analysis
-The text analysis contains lyrics and Wikipedia page information on artits.
+The text analysis contains information from lyrics and Wikipedia page on artits. 
+
+#### Cleaning the text for further analysis
+The first step in order to analyze text in this case both lyrics and text from Wikipedia, the text files must be "cleaned" to get the best result further on. By cleaning the purpose is to remove, punctuations (!?:;., etc.) this includes do not helps us, so those signs are removed. Also stopwords are removed in order to focus on the specific words used by the artist or about the artist. Stopwords includes I, all, we, where and so on. The lyrics which are merged into one text file per artist contains square brackets just before a verse, to indicate which verse and who is performining that verse. This data is also removed. 
+
+#### Starting to analyze the text
+The initial plan is to see which words are mostly being used by an artist. This can be described as if all five artist repeatly singing a word, this word are not that interesting for us, therefor we perform what is called TF-IFD. This is term frequency–inverse document frequency, which describes first how many times a word appear in porpotion to the overall count. Then we calculate how offen this word is in a document or corpus in propotion to how many corpus there are in total. 
+
+_Example: if the word social is in 8 out of 10 corpuses, the calculation would be 10/8 = 1.25_
+
+
+
+
 
 ![Image of Yaktocat](img/majorlazer/majorlazer_wordcloud_lyrics.png)
 
