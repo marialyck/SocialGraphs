@@ -37,7 +37,7 @@ The text analysis contains lyrics and Wikipedia page information on artits.
 
 _Fig 3.7: Wordcloud of most popular words from artits X._
 
-![Image of Yaktocat](https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png)
+![Image of Yaktocat](new_placeholder.png)
 
 _Fig 3.8: Wordcloud of most popular words from artits Y._
 
@@ -46,3 +46,4 @@ _Fig 3.8: Wordcloud of most popular words from artits Y._
 Sum up what the overall conclusion is, based on the questions we made.
 
 ![Image of Yaktocat](https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png)
+
