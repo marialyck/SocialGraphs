@@ -19,10 +19,14 @@ The following network is made upon a organic structure.
 
 
 ```markdown
+def foo():
+    if not bar:
+        return True
+
+```
 
 ![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
 
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,9 +38,11 @@ Which analysis has been used?
 The text analysis contains lyrics and Wikipedia page information on artits.
 
 ![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
-_Fig 3.7: Wordcloud of most popular words from artits X.
+
+_Fig 3.7: Wordcloud of most popular words from artits X._
 
 ![Image](https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png)
-_Fig 3.8: Wordcloud of most popular words from artits Y.
+
+_Fig 3.8: Wordcloud of most popular words from artits Y._
 
 
