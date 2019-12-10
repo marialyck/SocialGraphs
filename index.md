@@ -29,6 +29,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Network: Analysis
 Which analysis has been used?
 
+### Audio Analysis
+Some text here.
 
 ### Text Analysis
 The text analysis contains lyrics and Wikipedia page information on artits.
