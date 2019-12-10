@@ -70,11 +70,13 @@ An interesting comparison is to compare the words from the wordcloud with the to
 
 _Fig x.x: Top 10 most used words from artits Major Lazer's 5 choosen songs._
 
-![Image of Yaktocat](new_placeholder.png)
-
-_Fig 3.8: Wordcloud of most popular words from artits Y._
-
 First, it seems to match, that the words from the wordclouds are similiar to the graph illustrating word count. This might result in that, these words are more likely to be used by Major Lazer than any of the 4 other artist.
+
+Next one interesting analysis was to see if there are any similiarity between the artists lyrics and what people are writing about them on Wikipedia. In order to do this, the same process of cleaning the data has been made. After cleaning the data TF-IDF could be calculated to render a wordcloud based on data from Wikipedia. 
+
+![Image of Yaktocat](img/majorlazer/majorlazer_wordcloud_wiki.png)
+
+_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
 
 ### Conclusion
 Sum up what the overall conclusion is, based on the questions we made.
