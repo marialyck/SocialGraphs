@@ -26,7 +26,7 @@ def foo():
 ```
 
 <p align="center">
-  <img src="https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png">
+  <img src="https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png">
 </p>
 
 _Fig 2.2: Network graph_
@@ -41,13 +41,13 @@ Which analysis has been used?
 The text analysis contains lyrics and Wikipedia page information on artits.
 
 <p align="center">
-  <img src="https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png">
+  <img src="https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png">
 </p>
 
 _Fig 3.7: Wordcloud of most popular words from artits X._
 
 <p align="center">
-  <img src="https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png">
+  <img src="https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png">
 </p>
 
 _Fig 3.8: Wordcloud of most popular words from artits Y._
@@ -58,5 +58,5 @@ Sum up what the overall conclusion is, based on the questions we made.
 
 
 <p align="center">
-  <img src="https://github.com/marialyck/SocialGraphs/blob/master/placeholder.png">
+  <img src="https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png">
 </p>
