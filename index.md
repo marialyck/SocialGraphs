@@ -18,7 +18,7 @@ Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/maste
 
 The following network is made upon a organic structure.
 
-![Image of Yaktocat](https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png)
+![Image of Yaktocat](new_placeholder.png)
 
 _Fig 2.2: Network graph_
 
@@ -33,7 +33,7 @@ Some text here.
 ### Text Analysis
 The text analysis contains lyrics and Wikipedia page information on artits.
 
-![Image of Yaktocat](https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png)
+![Image of Yaktocat](new_placeholder.png)
 
 _Fig 3.7: Wordcloud of most popular words from artits X._
 
@@ -45,5 +45,5 @@ _Fig 3.8: Wordcloud of most popular words from artits Y._
 ### Conclusion
 Sum up what the overall conclusion is, based on the questions we made.
 
-![Image of Yaktocat](https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png)
+![Image of Yaktocat](new_placeholder.png)
 
