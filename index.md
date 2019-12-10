@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Collaboration between artists in a organic network
+### 02805 - Social Graphs and Interactions
 
-You can use the [editor on GitHub](https://github.com/marialyck/SocialGraphs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/master/index.md) if you want to play around with the data yourself.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
