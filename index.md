@@ -18,13 +18,6 @@ Download dataset [download](https://github.com/marialyck/SocialGraphs/edit/maste
 The following network is made upon a organic structure.
 
 
-```python
-def foo():
-    if not bar:
-        return True
-
-```
-
 <p align="center">
   <img src="https://github.com/marialyck/SocialGraphs/blob/master/new_placeholder.png">
 </p>
