@@ -14,6 +14,9 @@ Information about the data, format, size etc.
 
 Download a dataset if you want to play around with the data yourself.
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/marialyck/SocialGraphs/archive/master.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download marialyck/SocialGraphs on GitHub">Download</a>
+
 <a href="https://github.com/marialyck/SocialGraphs/archive/master.zip">Download full repository</a>
 
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/marialyck/SocialGraphs/tree/master/spotify">Download only the Spotify network</a> 
