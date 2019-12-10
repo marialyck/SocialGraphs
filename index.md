@@ -47,3 +47,5 @@ _Fig 3.7: Wordcloud of most popular words from artits X._
 _Fig 3.8: Wordcloud of most popular words from artits Y._
 
 
+### Conclusion
+Sum up what the overall conclusion is, based on the questions we made.
