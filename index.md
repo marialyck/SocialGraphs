@@ -13,7 +13,9 @@ Information about the data, format, size etc.
 - Wikipedia API (description on artists)
 
 Download dataset
-<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/marialyck/SocialGraphs/tree/master/Dataset">Download File</a>
+https://github.com/marialyck/SocialGraphs/archive/master.zip
+<a href="https://github.com/marialyck/SocialGraphs/archive/master.zip">Download File</a>
+#<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/marialyck/SocialGraphs/tree/master/Dataset">Download File</a>
 if you want to play around with the data yourself.
 
 ### Network: _how is it made?_
