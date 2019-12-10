@@ -45,20 +45,30 @@ Some text here.
 The text analysis contains information from lyrics and Wikipedia page on artits. 
 
 #### Cleaning the text for further analysis
-The first step in order to analyze text in this case both lyrics and text from Wikipedia, the text files must be "cleaned" to get the best result further on. By cleaning the purpose is to remove, punctuations (!?:;., etc.) this includes do not helps us, so those signs are removed. Also stopwords are removed in order to focus on the specific words used by the artist or about the artist. Stopwords includes I, all, we, where and so on. The lyrics which are merged into one text file per artist contains square brackets just before a verse, to indicate which verse and who is performining that verse. This data is also removed. 
+The first step in order to analyze text in this case both lyrics and text from Wikipedia, the text files must be "cleaned" to get the best result further on. By cleaning the purpose is to remove, punctuations (!?:;., etc.) this includes do not helps us, so those signs are removed. All words are being transformed into lower case, this helps to not being confused if the same word are written with full lower case or just the first letter is capital, this mistake are being avoided by simple removing the all capital letters and replacing them with lower case. Also stopwords are removed in order to focus on the specific words used by the artist or about the artist. Stopwords includes I, all, we, where and so on. The lyrics which are merged into one text file per artist contains square brackets just before a verse, to indicate which verse and who is performining that verse. This data is also removed. 
 
 #### Starting to analyze the text
 The initial plan is to see which words are mostly being used by an artist. This can be described as if all five artist repeatly singing a word, this word are not that interesting for us, therefor we perform what is called TF-IFD. This is term frequency–inverse document frequency, which describes first how many times a word appear in porpotion to the overall count. Then we calculate how offen this word is in a document or corpus in propotion to how many corpus there are in total. 
 
-_Example: if the word social is in 8 out of 10 corpuses, the calculation would be 10/8 = 1.25_
+When the TF-IDF is calculated the result can then be used to create a visual representation of the words which just have been calculated. To illustrate this a wordcloud is a truly great option. The wordcloud features to show a given amount of words, these words' size depends on the result from previous calculation. To the larger the word is, the greater the value is. 
 
+In this project, TF-IDF and wordclouds has been used to show which words are being writing into the respective artist lyrics. 
 
+The first artist is Major Lazer. 
 
-
+#### Major Lazer 
+The first wordcloud is based on analysis from the groups lyrics (5 songs).
 
 ![Image of Yaktocat](img/majorlazer/majorlazer_wordcloud_lyrics.png)
 
-_Fig 3.7: Wordcloud of most popular words from artits X._
+_Fig x.x: Wordcloud of 5 songs words from artits Major Lazer._
+
+The words which are represented with the biggest font size, would be _behaving, kiss, wine and clang_. 
+An interesting comparison is to compare the words from the wordcloud with the top 10 words being used in the 5 choosen songs. 
+
+![Image of Yaktocat](img/majorlazer/majorlazer_top10_lyrics.png)
+
+_Fig x.x: Top 10 most used words from artits Major Lazer's 5 choosen songs._
 
 ![Image of Yaktocat](new_placeholder.png)
 
