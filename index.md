@@ -3,7 +3,7 @@
 https://guides.github.com/features/mastering-markdown/
 
 ### Introduction
-Something about the project (short) 
+Have you ever wondered about all the connected artists on Spotify featuring each other and how they might be connected? Have you ever listened to new music thinking "oh featuring that artist... AGAIN?" You are not alone with that feeling then. We have decided to check it out. So we dug into the Spotify API and found the top connected artists. We dug further into their songs to see if there were a specific way of using the words for these connected artists. And we dug even further and looked to Wikipedia to clear up if there were any similarities between those featuring artists. What we could see from the top artists ie. the ones that most often had a featuring artist with them was mostly the language. It was not for the fainthearted to read. 
 
 ### Data and API
 Information about the data, format, size etc.
@@ -12,8 +12,7 @@ Information about the data, format, size etc.
 - Genius API (lyrics)
 - Wikipedia API (description on artists)
 
-Download dataset 
-<a href="css/style.css">style.css</a>
+Download dataset
 <a href="Dataset/Tooshort.txt">Download File</a>
 if you want to play around with the data yourself.
 
