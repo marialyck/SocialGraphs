@@ -44,7 +44,7 @@ Some text here.
 ### Text Analysis
 The text analysis contains lyrics and Wikipedia page information on artits.
 
-![Image of Yaktocat](img/majorlazer_wordcloud_lyrics.png)
+![Image of Yaktocat](img/majorlazer/majorlazer_wordcloud_lyrics.png)
 
 _Fig 3.7: Wordcloud of most popular words from artits X._
 
