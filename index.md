@@ -154,6 +154,8 @@ The text is again being compared to the artist's Wikipedia page.
 
 _Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
 
+To get an idea og his top most used words it is counted again and shown as a diagram below. 
+
 The top 10 wordcounts are illustrated into a graph figure x.x.
 
 ![Image of Yaktocat](img/sanquinn/sanquinn_top10_wiki.png)
@@ -161,11 +163,13 @@ The top 10 wordcounts are illustrated into a graph figure x.x.
 _Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 #### Pitbull
-San Quinn is another artist that popped out in the network. To get a grasp of what kind of artist he is a wordcloud based on the TF-IDF calculations is created. The wordcloud is based on 5 of San Quinn's songs.
+Pitbull seems to have a less cursing wordcloud though the words are still rather harsh. Taking into considerations that this is the third artist popping out in the network as the most connected artist one might start to wonder if the road to success is a really hard and negative language. However it will be left to the sentiment analysis to conclude that.
+
+The wordcloud based on Pitbulls 5 songs looked like this when done rendering.
 
 ![Image of Yaktocat](img/pitbull/pitbull_wordcloud_lyrics.png)
 
-_Fig x.x: Wordcloud of 5 songs words from artits San Quinn._
+_Fig x.x: Wordcloud of 5 songs words from artits Pitbull._
 
 Considering the word cloud one might see that it is not a soft pop artist. But it becomes even more clear when looking to his top 2 most used words. To sum up and give an overview the words are counted and the 10 most used are shown below in the graph.
 
@@ -181,13 +185,13 @@ The text is again being compared to the artist's Wikipedia page.
 
 ![Image of Yaktocat](img/pitbull/pitbull_wordcloud_wiki.png)
 
-_Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
+_Fig x.x: Wordcloud of information from artits Pitbull's Wikipedia page._
 
 The top 10 wordcounts are illustrated into a graph figure x.x.
 
 ![Image of Yaktocat](img/pitbull/pitbull_top10_wiki.png)
 
-_Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
+_Fig x.x: Top 10 most used words from artits Pitbull's Wikipedia page._
 
 #### Too $hort
 San Quinn is another artist that popped out in the network. To get a grasp of what kind of artist he is a wordcloud based on the TF-IDF calculations is created. The wordcloud is based on 5 of San Quinn's songs.
@@ -200,7 +204,7 @@ Considering the word cloud one might see that it is not a soft pop artist. But i
 
 ![Image of Yaktocat](img/tooshort/tooshort_top10_lyrics.png)
 
-_Fig x.x: Top 10 most used words from artits San Quinn's 5 chosen songs._
+_Fig x.x: Top 10 most used words from artits Too $hort's 5 chosen songs._
 
 _The word which has been deleted due to explicit content._
 
@@ -210,13 +214,13 @@ The text is again being compared to the artist's Wikipedia page.
 
 ![Image of Yaktocat](img/tooshort/tooshort_wordcloud_wiki.png)
 
-_Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
+_Fig x.x: Wordcloud of information from artits Too $hort's Wikipedia page._
 
 The top 10 wordcounts are illustrated into a graph figure x.x.
 
 ![Image of Yaktocat](img/tooshort/tooshort_top10_wiki.png)
 
-_Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
+_Fig x.x: Top 10 most used words from artits Too $hort's Wikipedia page._
 
 
 ### Sentiment Analysis
@@ -237,8 +241,11 @@ Words like "jail" and "trap" do not pop out as positive in the sentiment analysi
 
 
 
+ 
 ### Conclusion
-Sum up what the overall conclusion is, based on the questions we made.
+First of all some surprises occured along the way. This is most likely how it is when working with a completely new, not knowing what to expect, network. Who would have guessed that the friendship paradox would come out with such a low degree? Looking to the network it did come as a surprise. 
+
+Considering the wordclouds and the sentiment analysis the language did not come as a surprise. The 5 top artists were mostly in rap or harder versions of pop music and it seems to be that genre that has the most collaborations between artists. The explanation to the hard language is therefor rather explanable. 
 
 ![Image of Yaktocat](new_placeholder.png)
 
