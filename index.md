@@ -268,7 +268,7 @@ Words like "jail" and "trap" do not pop out as positive in the sentiment analysi
 ![Image of Yaktocat](img/tooshort/TooShort_sentiment.png)
 ![Image of Yaktocat](img/tooshort/tooshort_wiki_lyric.png)
 
-![Image of Yaktocat](img/pitbull/Pitbull_wiki_sentiment.png)
+![Image of Yaktocat](img/pitbull/Pitbull_sentiment.png)
 ![Image of Yaktocat](img/pitbull/pitbull_wiki_lyric.png)
 
 ![Image of Yaktocat](img/sanquinn/SanQuinn1_sentiment.png)
