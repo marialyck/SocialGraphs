@@ -229,6 +229,10 @@ Gucci Mane has several larger words in his wordcloud that is considered negative
 ![Image of Yaktocat](img/guccimane/Guccimane_sentiment.png)
 
 
+So what would be interesting to take a look at now is whether the wikipedia page is supporting this negative language style. If wikipedia objectively describes Gucci Mane, they might be forced to use some of the words. And a dark history could also contribute to a darker sentiment analysis. 
+
+Words like "jail" and "trap" do not pop out as positive in the sentiment analysis so showing the two graphs together might give an idea of the sentimental analysis of the lyrics and the Wiki-page.
+
 ![Image of Yaktocat](img/guccimane/guccimane_wiki_lyric.png)
 
 
