@@ -9,7 +9,7 @@ _Phillip Kragh Aagaard - s190736_
 
 _Maria Lyck Carstensen - s144478_
 
-##### For the full code: 
+#### For the Explainer Notebook: 
 Click here: 
 
 <a href="https://github.com/marialyck/SocialGraphs/blob/master/ExplainerNotebookvFinal.ipynb">Explainer Notebook</a>
@@ -68,19 +68,19 @@ _note that you might be able to scroll in graph._
 Look around a bit and maybe even get an idea of how connected the nodes are to each other. We have kindly removed the ones that were not connected. Simply because this network that we are going to analyse is all about who is the most connected artist. This is certainly not the one without any connections. Saying connections we really mean featuring. 
 
 ### Network: Analysis
-![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
+Looking into the network and all the details to try to figure out what makes these artist so special. We tried to make a graph of the in and out degrees. Beside the comparisons made between the analyzed nodes, i.e. the nodes with highest total degrees, a lot of insights about the collaborating nature of musicians can be gained from network or graph analysis.
+
 
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
 
-![Image of Yaktocat](network_analysis/DegreeDistributions_actual.png)
+In well accordens with what was found before the medians are found to be 1 and 0 for the in- and out-degrees, respectively, showing that most artists are only little linked to their fellow artists.
 
-![Image of Yaktocat](DegreeDistributions_loglog.png)
+The right-skewness of these ditributions, i.e. occurence of many little connected nodes combined with a few very connected nodes (hubs), is a good indication that the network indeed is a real network. This was expected so let's continue the analysis. 
+
+
+We also investigated whether any correlations could be found between the in- and out-degrees. However, as seen from the scatter-plot below, there does generally not seem to be any such correlations.
 
 ![Image of Yaktocat](network_analysis/InOutScatter.png)
-
-Which analysis has been used?
-
-
 
 
 
