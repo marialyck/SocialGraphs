@@ -153,10 +153,62 @@ The top 10 wordcounts are illustrated into a graph figure x.x.
 _Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 #### Pitbull
+San Quinn is another artist that popped out in the network. To get a grasp of what kind of artist he is a wordcloud based on the TF-IDF calculations is created. The wordcloud is based on 5 of San Quinn's songs.
 
+![Image of Yaktocat](img/pitbull/pitbull_wordcloud_lyrics.png)
+
+_Fig x.x: Wordcloud of 5 songs words from artits San Quinn._
+
+Considering the word cloud one might see that it is not a soft pop artist. But it becomes even more clear when looking to his top 2 most used words. To sum up and give an overview the words are counted and the 10 most used are shown below in the graph.
+
+![Image of Yaktocat](img/pitbull/pitbull_top10_lyrics.png)
+
+_Fig x.x: Top 10 most used words from artits San Quinn's 5 chosen songs._
+
+_The word which has been deleted due to explicit content._
+
+When comparing both the wordcloud with word counter, it is not clearly the same words which are presented. The word counts are in generel the most commen words by Gucci Mane within in chosen 5 songs. Where the words from the wordcloud is more weighted, in context that if some of the words appears in all 5 artist songs, it will then score a lower score, where if the words only appears in one artist song, the score would be significantly higher. 
+
+The text is again being compared to the artist's Wikipedia page.
+
+![Image of Yaktocat](img/pitbull/pitbull_wordcloud_wiki.png)
+
+_Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
+
+The top 10 wordcounts are illustrated into a graph figure x.x.
+
+![Image of Yaktocat](img/pitbull/pitbull_top10_wiki.png)
+
+_Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 #### Too $hort
+San Quinn is another artist that popped out in the network. To get a grasp of what kind of artist he is a wordcloud based on the TF-IDF calculations is created. The wordcloud is based on 5 of San Quinn's songs.
 
+![Image of Yaktocat](img/tooshort/tooshort_wordcloud_lyrics.png)
+
+_Fig x.x: Wordcloud of 5 songs words from artits San Quinn._
+
+Considering the word cloud one might see that it is not a soft pop artist. But it becomes even more clear when looking to his top 2 most used words. To sum up and give an overview the words are counted and the 10 most used are shown below in the graph.
+
+![Image of Yaktocat](img/tooshort/tooshort_top10_lyrics.png)
+
+_Fig x.x: Top 10 most used words from artits San Quinn's 5 chosen songs._
+
+_The word which has been deleted due to explicit content._
+
+When comparing both the wordcloud with word counter, it is not clearly the same words which are presented. The word counts are in generel the most commen words by Gucci Mane within in chosen 5 songs. Where the words from the wordcloud is more weighted, in context that if some of the words appears in all 5 artist songs, it will then score a lower score, where if the words only appears in one artist song, the score would be significantly higher. 
+
+The text is again being compared to the artist's Wikipedia page.
+
+![Image of Yaktocat](img/tooshort/tooshort_wordcloud_wiki.png)
+
+_Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
+
+The top 10 wordcounts are illustrated into a graph figure x.x.
+
+![Image of Yaktocat](img/tooshort/tooshort_top10_wiki.png)
+
+_Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 
 ### Sentiment Analysis
