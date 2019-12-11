@@ -144,13 +144,13 @@ The text is again being compared to the artist's Wikipedia page.
 
 ![Image of Yaktocat](img/sanquinn/sanquinn_wordcloud_wiki.png)
 
-_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
+_Fig x.x: Wordcloud of information from artits San Quinn's Wikipedia page._
 
 The top 10 wordcounts are illustrated into a graph figure x.x.
 
 ![Image of Yaktocat](img/sanquinn/sanquinn_top10_wiki.png)
 
-_Fig x.x: Top 10 most used words from artits Gucci Mane's Wikipedia page._
+_Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 #### Pitbull
 
