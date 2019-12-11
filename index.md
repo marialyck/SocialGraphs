@@ -93,6 +93,21 @@ Next artits which have been a part of the lyrics analysis, is Gucci Mane. The sa
 
 _Fig x.x: Top 10 most used words from artits Gucci Mane's 5 choosen songs._
 
+To briefly sum of some of the words shown in figure x.x, the word which scored the highest score from the TF-IFD was _Gucci_ which also is part of the artist name. But this might also be a reference to the luxury brand _Gucci_ which makes clothes, bags and accessories. To compare the wordcloud with word counts, a graph is made to illustrate which words are being used most.
+
+![Image of Yaktocat](img/guccimane/guccimane_top10_lyrics.png)
+
+_Fig x.x: Top 10 most used words from artits Gucci Mane's 5 choosen songs._
+
+_The word which has been deleted due to explicit content._
+
+When comparing both the wordcloud with word counter, it is not clearly the same words which are presented. The word counts are in generel the most commen words by Gucci Mane within in choosen 5 songs. Where the words from the wordcloud is more weighted, in context that if some of the words appears in all 5 artist songs, it will then score a lower score, where if the words only appears in one artist song, the score would be significantly higher. 
+
+The text is again being compared to the artist's Wikipedia page.
+
+![Image of Yaktocat](img/img/guccimane/guccimane_wordcloud_wiki.png)
+
+_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
 
 
 
