@@ -3,11 +3,11 @@
 
 Group members:
 
-Hjalte Reuss Schmidt s163471
+_Hjalte Reuss Schmidt - s163471_
 
-Phillip Kragh Aagaard s190736
+_Phillip Kragh Aagaard - s190736_
 
-Maria Lyck Carstensen s144478
+_Maria Lyck Carstensen - s144478_
 
 
 ### Introduction
@@ -55,6 +55,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
 
 Which analysis has been used?
+
+<embed src="https://github.com/marialyck/SocialGraphs/blob/master/graph/index.html">
 
 ### Audio Analysis
 Some text here.
