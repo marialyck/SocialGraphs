@@ -1,5 +1,5 @@
 ## Collaboration between artists in a organic network
-### 02805 - Social Graphs and Interactions
+### 02805 - Social Graphs and Interactions @ The Technical University of Denmark
 https://guides.github.com/features/mastering-markdown/
 
 ### Introduction
@@ -82,7 +82,7 @@ And together with that worldcloud a graph that shows the wordcount can be seen.
 
 ![Image of Yaktocat](img/majorlazer/majorlazer_top10_wiki.png)
 
-_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
+_Fig x.x: Top 10 most used words from artits Major Lazer's Wikipedia page._
 
 Just to compare the two different wordclouds and graphs, the words on the wordcloud from wikipedia are more genereal inspirational and more likely to be glad words.
 
@@ -91,7 +91,7 @@ Next artits which have been a part of the lyrics analysis, is Gucci Mane. The sa
 
 ![Image of Yaktocat](img/guccimane/guccimane_wordcloud_lyrics.png)
 
-_Fig x.x: Top 10 most used words from artits Gucci Mane's 5 choosen songs._
+_Fig x.x: Wordcloud of 5 songs words from artits Gucci Mane._
 
 To briefly sum of some of the words shown in figure x.x, the word which scored the highest score from the TF-IFD was _Gucci_ which also is part of the artist name. But this might also be a reference to the luxury brand _Gucci_ which makes clothes, bags and accessories. To compare the wordcloud with word counts, a graph is made to illustrate which words are being used most.
 
@@ -105,10 +105,15 @@ When comparing both the wordcloud with word counter, it is not clearly the same 
 
 The text is again being compared to the artist's Wikipedia page.
 
-![Image of Yaktocat](img/img/guccimane/guccimane_wordcloud_wiki.png)
+![Image of Yaktocat](img/guccimane/guccimane_wordcloud_wiki.png)
 
 _Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
 
+The top 10 wordcounts are illustrated into a graph figure x.x.
+
+![Image of Yaktocat](img/guccimane/guccimane_top10_wiki.png)
+
+_Fig x.x: Top 10 most used words from artits Gucci Mane's Wikipedia page._
 
 
 ### Conclusion
