@@ -56,7 +56,7 @@ _Fig 2.2: Network graph_
 
 Which analysis has been used?
 
-<embed src="https://github.com/marialyck/SocialGraphs/blob/master/graph/index.html">
+<embed src="https://severin.edea.dk/Temp/index.html">
 
 ### Audio Analysis
 Some text here.
