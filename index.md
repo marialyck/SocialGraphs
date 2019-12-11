@@ -220,7 +220,17 @@ _Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 
 ### Sentiment Analysis
-<embed src="https://severin.edea.dk/Temp/bar_chart.svg">
+What is interesting when working with a lot of text is to see whether it is overall positive or negative and since looking at the wordclouds one might have an idea that the lyrics as well as the Wikipedia site is overall negative considering some of the hard words. With a sentiment analysis it is possible to get an idea of just that. The higher the words are rated in the histogram the more negative the words used.
+
+
+#### Gucci Mane
+Gucci Mane has several larger words in his wordcloud that is considered negative. Looking to just the lyrics now the histogram below confirms the rather negative language. 
+
+![Image of Yaktocat](img/guccimane/Guccimane_sentiment.png)
+
+
+![Image of Yaktocat](img/guccimane/guccimane_wiki_lyric.png)
+
 
 
 ### Conclusion
