@@ -45,19 +45,20 @@ The following network is made upon a organic structure.
 
 Artist | *Pitbull* | *Major Lazer* | *Gucci Mane* | *Too Short* | *San Quinn*
 ------------ | ------------ | ------------- | ------------- | ------------- | -------------
-*Pitbull* | 0 | 1 | 1 | 1 | 1
-*Major Lazer* | 1 | 0 | 1 | 1 | 1
-*Gucci Mane* | 1 | 1 | 0 | 1 | 1
-*Too Short* | 1 | 1 | 1| 0 | 1
-*San Quinn* |1 | 1 | 1 | 1 | 0
+*Pitbull* | 0 | 2 | 2 | 3 | 3
+*Major Lazer* | 2 | 0 | 2 | 3 | 4
+*Gucci Mane* | 2 | 2 | 0 | 2 | 3
+*Too Short* | 2 | 3 | 2 | 0 | 1
+*San Quinn* |2 | 3 | 1 | 2 | 0
 
 _Fig 2.2: Network graph_
 
 But let us first have a look at an interactive view of the full featuring artist network
 
 <embed src="https://severin.edea.dk/Temp/index.html" width="1200" height="800">
+_note that you might be able to scroll in graph._
 
-Look around a bit and maybe even get an idea of how connected the nodes are to each other. 
+Look around a bit and maybe even get an idea of how connected the nodes are to each other. We have kindly removed the ones that were not connected. Simply because this network that we are going to analyse is all about who is the most connected artist. This is certainly not the one without any connections. Saying connections ew really mean featuring. 
 
 ### Network: Analysis
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
@@ -74,7 +75,7 @@ Which analysis has been used?
 
 
 
-_note that you might be able to scroll in graph._
+
 
 ### Audio Analysis
 The different categories of music in Spotify is quite interesting to take a look at when it comes to the generated network. Later on considering the wordclouds and the sentiment analysis it can be interesting to remember a parameter such as dancability. Without revealing what the words of the artist Too $Short is like - it might come as a surprise for some that these apparently are danceable lyrics. 
