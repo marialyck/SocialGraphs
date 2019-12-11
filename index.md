@@ -77,6 +77,7 @@ Which analysis has been used?
 _note that you might be able to scroll in graph._
 
 ### Audio Analysis
+The different categories of music in Spotify is quite interesting to take a look at when it comes to the generated network. Later on considering the wordclouds and the sentiment analysis it can be interesting to remember a parameter such as dancability. Without revealing what the words of the artist Too $Short is like - it might come as a surprise for some that these apparently are danceable lyrics. 
 ![Image of Yaktocat](audio_analysis/AudioFeatures.png)
 
 ### Text Analysis
@@ -275,6 +276,7 @@ Words like "jail" and "trap" do not pop out as positive in the sentiment analysi
 ![Image of Yaktocat](img/sanquinn/SanQuinn1_sentiment.png)
 ![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
 
+![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
  
 ### Conclusion
 First of all some surprises occured along the way. This is most likely how it is when working with a completely new, not knowing what to expect, network. Who would have guessed that the friendship paradox would come out with such a low degree? Looking to the network it did come as a surprise. 
