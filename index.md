@@ -15,6 +15,7 @@ Have you ever wondered about all the connected artists on Spotify featuring each
 
 [![Youtube video example](https://img.youtube.com/vi/kWTqM2rLA7A/0.jpg)](https://www.youtube.com/watch?v=kWTqM2rLA7A&t=5s "The apetiser video")
 
+_The apetiser video, for the dataset_
 
 ### Data and API
 Information about the data, format, size etc.
@@ -76,7 +77,7 @@ Which analysis has been used?
 _note that you might be able to scroll in graph._
 
 ### Audio Analysis
-Some text here.
+![Image of Yaktocat](audio_analysis/AudioFeatures.png)
 
 ### Text Analysis
 The text analysis contains information from lyrics and Wikipedia page on artits. The course of action is that the 5 chosen artist from the network is then being used to collect 5 songs from each artist. These songs words will then be analyzed to see if the artist are using the same words and which words are more specific to one artist.
