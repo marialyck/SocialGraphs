@@ -220,7 +220,7 @@ _Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 
 ### Sentiment Analysis
-
+![Image of Yaktocat](bar_chart.svg)
 
 ### Conclusion
 Sum up what the overall conclusion is, based on the questions we made.
