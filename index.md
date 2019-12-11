@@ -58,7 +58,7 @@ But let us first have a look at an interactive view of the full featuring artist
 <embed src="https://severin.edea.dk/Temp/index.html" width="1200" height="800">
 _note that you might be able to scroll in graph._
 
-Look around a bit and maybe even get an idea of how connected the nodes are to each other. We have kindly removed the ones that were not connected. Simply because this network that we are going to analyse is all about who is the most connected artist. This is certainly not the one without any connections. Saying connections ew really mean featuring. 
+Look around a bit and maybe even get an idea of how connected the nodes are to each other. We have kindly removed the ones that were not connected. Simply because this network that we are going to analyse is all about who is the most connected artist. This is certainly not the one without any connections. Saying connections we really mean featuring. 
 
 ### Network: Analysis
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
@@ -277,7 +277,8 @@ Words like "jail" and "trap" do not pop out as positive in the sentiment analysi
 ![Image of Yaktocat](img/sanquinn/SanQuinn1_sentiment.png)
 ![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
 
-![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
+Last but not least it seemed like Pitbull despite the negative sentiment analysis still had nicer words than Too $hort. A quick analysis of their respective song lyrics showed that this was the case. 
+![Image of Yaktocat](img/PitBullTooShortsentiment.png)
  
 ### Conclusion
 First of all some surprises occured along the way. This is most likely how it is when working with a completely new, not knowing what to expect, network. Who would have guessed that the friendship paradox would come out with such a low degree? Looking to the network it did come as a surprise. 
