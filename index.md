@@ -298,5 +298,7 @@ First of all some surprises occured along the way. This is most likely how it is
 
 Considering the wordclouds and the sentiment analysis the language did not come as a surprise. The 5 top artists were mostly in rap or harder versions of pop music and it seems to be that genre that has the most collaborations between artists. The explanation to the hard language is therefor rather explanable. 
 
+For future analysist one might find it funny to see what words would make a song popular or where to be on the audioanalysist. Some might believe that a popular song is a song with high danceability. However we used our effort into getting the idea of how songs are formed and we got a pretty good idea about that.
+
 
 
