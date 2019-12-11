@@ -13,6 +13,8 @@ _Maria Lyck Carstensen - s144478_
 ### Introduction
 Have you ever wondered about all the connected artists on Spotify featuring each other and how they might be connected? Have you ever listened to new music thinking "oh featuring that artist... AGAIN?" You are not alone with that feeling then. We have decided to check it out. So we dug into the Spotify API and found the top connected artists. We dug further into their songs to see if there were a specific way of using the words for these connected artists. And we dug even further and looked to Wikipedia to clear up if there were any similarities between those featuring artists. What we could see from the top artists ie. the ones that most often had a featuring artist with them was mostly the language. It was not for the fainthearted to read. 
 
+<embed src="https://www.youtube.com/watch?v=kWTqM2rLA7A" width="1200" height="600">
+
 ### Data and API
 Information about the data, format, size etc.
 
@@ -49,14 +51,26 @@ Artist | *Pitbull* | *Major Lazer* | *Gucci Mane* | *Too Short* | *San Quinn*
 
 _Fig 2.2: Network graph_
 
+But let us first have a look at an interactive view of the full featuring artist network
 
+<embed src="https://severin.edea.dk/Temp/index.html" width="1200" height="800">
+
+Look around a bit and maybe even get an idea of how connected the nodes are to each other. 
 
 ### Network: Analysis
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
 
+![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
+
+![Image of Yaktocat](network_analysis/DegreeDistributions_actual.png)
+
+![Image of Yaktocat](DegreeDistributions_loglog.png)
+
+![Image of Yaktocat](network_analysis/InOutScatter.png)
+
 Which analysis has been used?
 
-<embed src="https://severin.edea.dk/Temp/index.html" width="1200" height="500">
+
 
 _note that you might be able to scroll in graph._
 
