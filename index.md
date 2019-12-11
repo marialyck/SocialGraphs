@@ -129,7 +129,7 @@ The text is again being compared to the artist's Wikipedia page.
 
 ![Image of Yaktocat](img/guccimane/guccimane_wordcloud_wiki.png)
 
-_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
+_Fig x.x: Wordcloud of information from artits Gucci Mane's Wikipedia page._
 
 The top 10 wordcounts are illustrated into a graph figure x.x.
 
@@ -200,13 +200,14 @@ The top 10 wordcounts are illustrated into a graph figure x.x.
 _Fig x.x: Top 10 most used words from artits Pitbull's Wikipedia page._
 
 #### Too $hort
-San Quinn is another artist that popped out in the network. To get a grasp of what kind of artist he is a wordcloud based on the TF-IDF calculations is created. The wordcloud is based on 5 of San Quinn's songs.
+This is interesting. Too $Short was not a namee that rang many bells so creating the wordcloud was a surprise and what a surprise. Giving all the wordclouds a glampse so far - this word cloud is by far the one containing the most female names and rude words. 
+Again 5 lyrics went into a TF-IDF analysis out came a rude wordcloud.
 
 ![Image of Yaktocat](img/tooshort/tooshort_wordcloud_lyrics.png)
 
-_Fig x.x: Wordcloud of 5 songs words from artits San Quinn._
+_Fig x.x: Wordcloud of 5 songs words from artits Too $hort._
 
-Considering the word cloud one might see that it is not a soft pop artist. But it becomes even more clear when looking to his top 2 most used words. To sum up and give an overview the words are counted and the 10 most used are shown below in the graph.
+So let us take a look at the top 10 and see if that is any better. And it is quite clear to see that we are dealing with an artist that uses hard language as a way of making music. 
 
 ![Image of Yaktocat](img/tooshort/tooshort_top10_lyrics.png)
 
@@ -214,7 +215,7 @@ _Fig x.x: Top 10 most used words from artits Too $hort's 5 chosen songs._
 
 _The word which has been deleted due to explicit content._
 
-When comparing both the wordcloud with word counter, it is not clearly the same words which are presented. The word counts are in generel the most commen words by Gucci Mane within in chosen 5 songs. Where the words from the wordcloud is more weighted, in context that if some of the words appears in all 5 artist songs, it will then score a lower score, where if the words only appears in one artist song, the score would be significantly higher. 
+It is clear to see that the top used words matches the artist language in the wordcloud. 
 
 The text is again being compared to the artist's Wikipedia page.
 
@@ -222,7 +223,7 @@ The text is again being compared to the artist's Wikipedia page.
 
 _Fig x.x: Wordcloud of information from artits Too $hort's Wikipedia page._
 
-The top 10 wordcounts are illustrated into a graph figure x.x.
+The top 10 wordcounts are illustrated into a graph figure x.x. 
 
 ![Image of Yaktocat](img/tooshort/tooshort_top10_wiki.png)
 
