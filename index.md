@@ -78,6 +78,24 @@ Next one interesting analysis was to see if there are any similiarity between th
 
 _Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
 
+And together with that worldcloud a graph that shows the wordcount can be seen.
+
+![Image of Yaktocat](img/majorlazer/majorlazer_top10_wiki.png)
+
+_Fig x.x: Wordcloud of information from artits Major Lazer's Wikipedia page._
+
+Just to compare the two different wordclouds and graphs, the words on the wordcloud from wikipedia are more genereal inspirational and more likely to be glad words.
+
+#### Gucci Mane
+Next artits which have been a part of the lyrics analysis, is Gucci Mane. The same process as the lyrics from Major Lazer, has been applied to Gucci Mane's 5 songs which has been choosen. First is the wordcloud based on TF-IDF calculation.
+
+![Image of Yaktocat](img/guccimane/guccimane_wordcloud_lyrics.png)
+
+_Fig x.x: Top 10 most used words from artits Gucci Mane's 5 choosen songs._
+
+
+
+
 ### Conclusion
 Sum up what the overall conclusion is, based on the questions we made.
 
