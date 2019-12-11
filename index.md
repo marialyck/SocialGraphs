@@ -199,7 +199,7 @@ Considering the word cloud one might see that it is not a soft pop artist. But i
 
 ![Image of Yaktocat](img/pitbull/pitbull_top10_lyrics.png)
 
-_Fig x.x: Top 10 most used words from artits San Quinn's 5 chosen songs._
+_Fig x.x: Top 10 most used words from artits Pitbull's 5 chosen songs._
 
 _The word which has been deleted due to explicit content._
 
@@ -264,21 +264,34 @@ Words like "jail" and "trap" do not pop out as positive in the sentiment analysi
 
 ![Image of Yaktocat](img/guccimane/guccimane_wiki_lyric.png)
 
+So looking into the next one, one should now pay attention to the y-axis. The amount of words are really changing from one artist to the next and this is worth noticing in order to get the right image of the artist.
 
+Major Lazer has remarkable few words when compared to Gucci Mane. The Wiki page seems to be almost empty compared to the above artist.
 ![Image of Yaktocat](img/majorlazer/MajorLazer_sentiment.png)
+Looking to the wikipedia page, one might get the idea that the y are more similar than Gucci Mane, but this seems to be a case of y-axis confusion. 
+Take a look at the y-axis and reconsider. 
 ![Image of Yaktocat](img/majorlazer/majorlazer_wiki_lyric.png)
 
+Looking to the bad boy of the class room, at least if we consider the wordcloud, Too $horts analysis is definitely to the lower end than the others we have seen so far. More words are to be found around 0 than if we take a comparison with one of the others (don't worry, we will do that in just a second.)
 ![Image of Yaktocat](img/tooshort/TooShort_sentiment.png)
+
+The wikipage seems to follow the trend, too $hort is not a possitive happy fairy. 
 ![Image of Yaktocat](img/tooshort/tooshort_wiki_lyric.png)
 
+And the second has passed. Try to see how Pitbull's analysis vs. Too $hort looks like. The lowest scores are the negative words. And the words scoring 10 are words like peace, harmony and rainbows and uniconrns (Think you get the picture)
+![Image of Yaktocat](img/PitBullTooShortsentiment.png)
+
+Now we cheated a bit and already looked to Pitbull - it seems like there are still a lot of hard words going on, but there are more in the middle than eg. Too $hort had. 
 ![Image of Yaktocat](img/pitbull/Pitbull_sentiment.png)
+
+The wiki page gives an impression of a rather large amount of words were the feelings is a bit mixed. It is most certainly not all positive. 
 ![Image of Yaktocat](img/pitbull/pitbull_wiki_lyric.png)
 
+So what we can say about San Quinn's analysis of the sentiments is that he stands out like a rather negative person as well. However thinking about the rather negative analysis we had here we might wantto consider which category has the most featuring artists.
 ![Image of Yaktocat](img/sanquinn/SanQuinn1_sentiment.png)
-![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
 
-Last but not least it seemed like Pitbull despite the negative sentiment analysis still had nicer words than Too $hort. A quick analysis of their respective song lyrics showed that this was the case. 
-![Image of Yaktocat](img/PitBullTooShortsentiment.png)
+San Quinn has almost no words on his wikipedia site, so the small bars indicates that rather well. However the words that are present are certainly mostly negative. 
+![Image of Yaktocat](img/sanquinn/sanquinn_wiki_lyric.png)
  
 ### Conclusion
 First of all some surprises occured along the way. This is most likely how it is when working with a completely new, not knowing what to expect, network. Who would have guessed that the friendship paradox would come out with such a low degree? Looking to the network it did come as a surprise. 
