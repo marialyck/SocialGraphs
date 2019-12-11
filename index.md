@@ -220,10 +220,6 @@ _Fig x.x: Top 10 most used words from artits San Quinn's Wikipedia page._
 
 
 ### Sentiment Analysis
-![Alt text](https://github.com/marialyck/SocialGraphs/blob/master/bar_chart.svg)
-<img src="https://github.com/marialyck/SocialGraphs/blob/master/bar_chart.svg">
-
-
 <embed src="https://severin.edea.dk/Temp/bar_chart.svg">
 
 
