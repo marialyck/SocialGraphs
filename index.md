@@ -37,6 +37,14 @@ For the full repository
 
 The following network is made upon a organic structure.
 
+Artist | *Pitbull* | *Major Lazer* | *Gucci Mane* | *Too Short* | *San Quinn*
+------------ | ------------ | ------------- | ------------- | ------------- | -------------
+*Pitbull* | 0 | 1 | 1 | 1 | 1
+*Major Lazer* | 1 | 0 | 1 | 1 | 1
+*Gucci Mane* | 1 | 1 | 0 | 1 | 1
+*Too Short* | 1 | 1 | 1| 0 | 1
+*San Quinn* |1 | 1 | 1 | 1 | 0
+
 ![Image of Yaktocat](new_placeholder.png)
 
 _Fig 2.2: Network graph_
