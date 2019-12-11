@@ -1,6 +1,5 @@
 ## Collaboration between artists in a organic network
 ### 02805 - Social Graphs and Interactions @ The Technical University of Denmark
-https://guides.github.com/features/mastering-markdown/
 
 Group members:
 Hjalte Reuss Schmidt s163471
