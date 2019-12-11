@@ -13,7 +13,8 @@ _Maria Lyck Carstensen - s144478_
 ### Introduction
 Have you ever wondered about all the connected artists on Spotify featuring each other and how they might be connected? Have you ever listened to new music thinking "oh featuring that artist... AGAIN?" You are not alone with that feeling then. We have decided to check it out. So we dug into the Spotify API and found the top connected artists. We dug further into their songs to see if there were a specific way of using the words for these connected artists. And we dug even further and looked to Wikipedia to clear up if there were any similarities between those featuring artists. What we could see from the top artists ie. the ones that most often had a featuring artist with them was mostly the language. It was not for the fainthearted to read. 
 
-<embed src="https://www.youtube.com/watch?v=kWTqM2rLA7A" width="1200" height="600">
+<video src="https://www.youtube.com/watch?v=kWTqM2rLA7A" poster="poster.jpg" width="320" height="200" controls preload></video>
+
 
 ### Data and API
 Information about the data, format, size etc.
