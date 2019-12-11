@@ -50,7 +50,7 @@ _Fig 2.2: Network graph_
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Network: Analysis
-![Image of Yaktocat](img/network_analysis/DegreeDistribution_acutal_scale.png)
+![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
 
 Which analysis has been used?
 
