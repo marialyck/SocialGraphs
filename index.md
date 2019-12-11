@@ -49,7 +49,7 @@ Artist | *Pitbull* | *Major Lazer* | *Gucci Mane* | *Too Short* | *San Quinn*
 
 _Fig 2.2: Network graph_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Network: Analysis
 ![Image of Yaktocat](network_analysis/DegreeDistribution_acutal_scale.png)
