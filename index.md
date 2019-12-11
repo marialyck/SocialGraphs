@@ -56,7 +56,9 @@ _Fig 2.2: Network graph_
 
 Which analysis has been used?
 
-<embed src="https://severin.edea.dk/Temp/index.html">
+<embed src="https://severin.edea.dk/Temp/index.html" width="1200" height="500">
+
+_note that you might be able to scroll in graph._
 
 ### Audio Analysis
 Some text here.
