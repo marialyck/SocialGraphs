@@ -45,13 +45,13 @@ Artist | *Pitbull* | *Major Lazer* | *Gucci Mane* | *Too Short* | *San Quinn*
 *Too Short* | 1 | 1 | 1| 0 | 1
 *San Quinn* |1 | 1 | 1 | 1 | 0
 
-![Image of Yaktocat](new_placeholder.png)
-
 _Fig 2.2: Network graph_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Network: Analysis
+![Image of Yaktocat](img/network_analysis/DegreeDistribution_acutal_scale.png)
+
 Which analysis has been used?
 
 ### Audio Analysis
@@ -247,5 +247,5 @@ First of all some surprises occured along the way. This is most likely how it is
 
 Considering the wordclouds and the sentiment analysis the language did not come as a surprise. The 5 top artists were mostly in rap or harder versions of pop music and it seems to be that genre that has the most collaborations between artists. The explanation to the hard language is therefor rather explanable. 
 
-![Image of Yaktocat](new_placeholder.png)
+
 
