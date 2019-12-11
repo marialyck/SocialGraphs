@@ -2,8 +2,11 @@
 ### 02805 - Social Graphs and Interactions @ The Technical University of Denmark
 
 Group members:
+
 Hjalte Reuss Schmidt s163471
+
 Phillip Kragh Aagaard s190736
+
 Maria Lyck Carstensen s144478
 
 
